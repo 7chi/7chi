@@ -1,9 +1,7 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=7chi&show_icons=true&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/quacksire">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7chi&layout=compact&theme=transparent&hide_border=true&hide=html&exclude_repo=caltrans-cameras" />
-</a>
+![chi's GitHub stats](https://github-readme-stats.vercel.app/api?username=7chi&show_icons=true&theme=catppuccin_mocha&locale=zh-tw)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7chi&theme=catppuccin_mocha&layout=compact)
+
 
 <!--
 **7chi/7chi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
